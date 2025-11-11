@@ -13,7 +13,7 @@ Este repositório tem como objetivo mostrar a resolução de 3 exercícios relac
 
 ## Link para vídeo explicando as questões
 
-[Clique Aqui para ver o vídeo]()
+[Clique Aqui para ver o vídeo](https://www.youtube.com/watch?v=xWUzb6Pwx7M)
 
 ### Exercício 1
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
